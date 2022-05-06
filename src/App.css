@@ -127,3 +127,9 @@ h4{
   line-height: 150%;
   width:326px;
 }
+
+footer{
+  position:absolute;
+  bottom: 15px;
+  left:30px
+}
