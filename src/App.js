@@ -14,7 +14,7 @@ function App() {
       <hr/>
       <Card item={data[2]} />
     </div>
-    <a href='https://www.linkedin.com/in/nicol%C3%A1s-rooney-803b4815b/'><footer>By Nicolás Rooney</footer></a>
+    <a href='https://www.linkedin.com/in/nicolas-rooney/'><footer>By Nicolás Rooney</footer></a>
     </div>
   );
 }
